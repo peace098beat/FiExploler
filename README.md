@@ -24,3 +24,10 @@
 
 
 
+## Author
+
+[@tomoyuki_nohara](https://twitter.com/tomoyuki_nohara)
+
+## License
+
+[MIT](http://b4b4r07.mit-license.org)
